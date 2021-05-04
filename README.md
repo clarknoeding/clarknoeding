@@ -25,9 +25,9 @@ Discord.js (2/10)🥉
 C++ (2/10) Need to repeat everything 🤞
 
 
-[![Datavorous' GitHub stats](https://github-readme-stats.vercel.app/api?username=Datavorous&show_icons=true&theme=chartreuse-dark)](https://github.com/Datavorous)
+[![Clarks' GitHub stats](https://github-readme-stats.vercel.app/api?username=clarknoeding&show_icons=true&theme=chartreuse-dark)](https://github.com/clarknoeding)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=chartreuse-dark)](https://github.com/Datavorous)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Datavorous&layout=compact&theme=chartreuse-dark)](https://github.com/clarknoeding)
 
 **Languages and Softwares that I Know and Use respectively**
 
