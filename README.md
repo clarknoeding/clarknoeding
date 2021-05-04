@@ -7,7 +7,7 @@ Hey! Welcome! 💕
 
 My Knowledge:
 
-![29515](https://user-images.githubusercontent.com/82918480/116987658-9e5c7800-accf-11eb-9490-a9a7816eae71.png {width=50px height=50px})
+![](https://user-images.githubusercontent.com/82918480/116987658-9e5c7800-accf-11eb-9490-a9a7816eae71.png =250x250)
 
 HTML (10/10)🏆
 
