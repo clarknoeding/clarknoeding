@@ -16,6 +16,7 @@ HTML (10/10)🏆
 
 
 Discord.js (2/10)🥉
+
 <img alt="HTML" align="center" src = "https://user-images.githubusercontent.com/82918480/116987375-4756a300-accf-11eb-9b6b-3addfe2d498e.png" width="100px">
 
 
