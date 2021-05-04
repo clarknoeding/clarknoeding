@@ -7,7 +7,8 @@ Hey! Welcome! 💕
 
 My Knowledge:
 
-![](https://user-images.githubusercontent.com/82918480/116987658-9e5c7800-accf-11eb-9490-a9a7816eae71.png =250x250)
+<img alt="name" align="center" src = "https://user-images.githubusercontent.com/82918480/116992145-e383a880-acd5-11eb-8551-f81ec9196119.png" width="100px">
+
 
 HTML (10/10)🏆
 
